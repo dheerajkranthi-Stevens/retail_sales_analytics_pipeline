@@ -1,0 +1,26 @@
+Order ID,Order Date,Customer Name,Product Name,sales,profit,worst_profit_rank
+CA-2016-108196,2016-11-25 00:00:00,Cindy Stewart,Cubify CubeX 3D Printer Double Head Print,4499.98,-6599.98,1
+US-2017-168116,2017-11-04 00:00:00,Grant Thornton,Cubify CubeX 3D Printer Triple Head Print,7999.98,-3839.99,2
+CA-2014-169019,2014-07-26 00:00:00,Luke Foster,GBC DocuBind P400 Electric Binding System,2177.58,-3701.89,3
+CA-2017-134845,2017-04-17 00:00:00,Sharelle Roach,Lexmark MX611dhe Monochrome Laser Printer,2549.99,-3399.98,4
+US-2017-122714,2017-12-07 00:00:00,Henry Goldwyn,Ibico EPK-21 Electric Binding System,1889.99,-2929.48,5
+CA-2015-147830,2015-12-15 00:00:00,Natalie Fritzler,Cubify CubeX 3D Printer Double Head Print,1799.99,-2639.99,6
+CA-2017-131254,2017-11-19 00:00:00,Nathan Cano,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,1525.19,-2287.78,7
+CA-2015-116638,2015-01-28 00:00:00,Joseph Holt,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,4297.64,-1862.31,8
+CA-2016-130946,2016-04-08 00:00:00,Zuschuss Carroll,GBC DocuBind P400 Electric Binding System,1088.79,-1850.95,9
+CA-2014-145317,2014-03-18 00:00:00,Sean Miller,Cisco TelePresence System EX90 Videoconferencing Unit,22638.48,-1811.08,10
+US-2015-150630,2015-09-17 00:00:00,Tracy Blumstein,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",3083.43,-1665.05,11
+CA-2014-165309,2014-11-11 00:00:00,Karen Daniels,GBC DocuBind TL300 Electric Binding System,896.99,-1480.03,12
+CA-2014-139892,2014-09-08 00:00:00,Becky Martin,Lexmark MX611dhe Monochrome Laser Printer,8159.95,-1359.99,13
+US-2017-120390,2017-10-19 00:00:00,Tracy Hopkins,GBC DocuBind P400 Electric Binding System,1633.19,-1306.55,14
+CA-2017-128363,2017-08-13 00:00:00,Dan Campbell,GBC DocuBind TL300 Electric Binding System,1614.58,-1237.85,15
+CA-2015-140025,2015-04-07 00:00:00,Peter Fuller,Hoover Upright Vacuum With Dirt Cup,463.25,-1181.28,16
+CA-2017-152093,2017-09-10 00:00:00,Skye Norling,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,762.59,-1143.89,17
+US-2017-148551,2017-01-12 00:00:00,David Bremer,GBC Ibimaster 500 Manual ProClick Binding System,760.98,-1141.47,18
+CA-2015-155600,2015-12-04 00:00:00,Rose O'Brian,GBC Ibimaster 500 Manual ProClick Binding System,1598.06,-1065.37,19
+CA-2017-158379,2017-09-22 00:00:00,Joseph Airdo,Martin Yale Chadless Opener Electric Letter Opener,4663.74,-1049.34,20
+CA-2015-105571,2015-11-07 00:00:00,Christine Phan,GBC DocuBind TL300 Electric Binding System,1345.48,-1031.54,21
+US-2017-162558,2017-10-02 00:00:00,Dean percer,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,2314.12,-1002.78,22
+CA-2017-159100,2017-10-16 00:00:00,Victoria Pisteka,Balt Solid Wood Round Tables,1875.26,-968.88,23
+CA-2015-146262,2015-01-02 00:00:00,Victoria Wilson,Cisco 9971 IP Video Phone Charcoal,1188.0,-950.4,24
+CA-2014-127299,2014-09-19 00:00:00,John Lee,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",2624.99,-944.99,25
