@@ -25,16 +25,16 @@ print("Looking for file at:", raw_path)
 # Load data
 df = pd.read_csv(raw_path, encoding="latin1")
 
-# -------------------------------
+
 # Ensure numeric columns are clean
-# -------------------------------
+
 df["Sales"] = pd.to_numeric(df["Sales"], errors="coerce")
 df["Profit"] = pd.to_numeric(df["Profit"], errors="coerce")
 df["Discount"] = pd.to_numeric(df["Discount"], errors="coerce").fillna(0)
 
-# -------------------------------
+
 # Derived analytics fields
-# -------------------------------
+
 # Profit Margin = Profit / Sales (safe divide)
 df["Profit Margin"] = (df["Profit"] / df["Sales"]).replace([float("inf"), -float("inf")], 0).fillna(0)
 
