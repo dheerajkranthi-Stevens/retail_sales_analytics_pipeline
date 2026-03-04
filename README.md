@@ -26,7 +26,7 @@ Raw CSV → Data Cleaning → SQLite Database → SQL Queries → KPI Outputs �
 
 ## Dashboard
 
-[Dashboard](powerbi/dashboard_overview.png)
+powerbi/dashboard_overview.png
 
 ## Key Insights
 - Revenue shows consistent growth with seasonal spikes.
